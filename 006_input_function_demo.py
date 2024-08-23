@@ -1,0 +1,6 @@
+my_str = input("Enter an integer:")
+print("type(my_str):", type(my_str))
+print("my_str=%s" % my_str)
+my_int=int(my_str)
+print("type(my_int):", type(my_int))
+print("my_int=%d" % my_int)

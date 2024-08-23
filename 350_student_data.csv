@@ -1,0 +1,11 @@
+roll_number:integer,name:text,city:text,marks:float 
+1,Yogeshwar,Pune,80.5
+2,Radhika,Mumbai,80.8
+3,Amit,Pune,80.54
+4,Imran,Pune,79.54
+5,Yogita,Mumbai,85.63
+6,Tejas,Mumbai,83.23
+7,Ravindra,Pune,82.54
+8,Mayuresh,Pune,69.54
+9,Rushikesh,Mumbai,90.63
+10,Nateshwar,Mumbai,92.23
